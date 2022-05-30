@@ -2,3 +2,6 @@ Host mcbain
 	HostName 192.168.2.12
 	User pi
 
+Host frinkiac
+	HostName 192.168.2.3
+	User steveftoth
